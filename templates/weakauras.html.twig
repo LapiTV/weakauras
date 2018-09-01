@@ -1,0 +1,53 @@
+<html>
+<head>
+    <title>WeakAuras de Lapi</title>
+    <link rel="stylesheet" href="{{ asset('build/app.css') }}">
+    <link rel="icon" type="image/png" href="/img/mk.png"/>
+</head>
+<body>
+{% for row in content %}
+    {% if row.type == "title" %}
+        <h1>{{ row.label }}</h1>
+    {% elseif row.type == "row" %}
+        <div class="weakauras_row">
+            {% for column in row.columns %}
+                {% if column.type == "weakauras_image_single" %}
+                    <div class="weakauras_image_single">
+                        <img src="{{ column.image }}">
+                        <ul>
+                            {% for weakaura in column.weakauras %}
+                                <li><a href="{{ weakaura.link }}">{{ weakaura.label }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                {% elseif column.type == "weakauras_single" %}
+                    <div class="weakauras_image_single">
+                        <ul>
+                            {% for weakaura in column.weakauras %}
+                                <li><a href="{{ weakaura.link }}">{{ weakaura.label }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                {% elseif column.type == "weakauras_image_double" %}
+                    <div class="weakauras_image_double">
+                        <img src="{{ column.image }}">
+                        <div class="weakauras_row">
+                            {% for sub_column in column.columns %}
+                                <div class="weakauras_image_double_column">
+                                    <h2>{{ sub_column.title }}</h2>
+                                    <ul>
+                                        {% for weakaura in sub_column.weakauras %}
+                                            <li><a href="{{ weakaura.link }}">{{ weakaura.label }}</a></li>
+                                        {% endfor %}
+                                    </ul>
+                                </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    {% endif %}
+{% endfor %}
+</body>
+</html>

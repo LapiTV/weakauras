@@ -1,0 +1,146 @@
+[
+  {
+    "type": "title",
+    "label": "WeakAuras par classe"
+  },
+  {
+    "type": "row",
+    "columns": [
+      {
+        "type": "weakauras_image_double",
+        "image": "/img/GameIcon-class-druid-vector.png",
+        "columns": [
+          {
+            "title": "Équilibre",
+            "weakauras": [
+              {
+                "link": "https://pastebin.com/sx5yQBi6",
+                "label": "Compilation"
+              },
+              {
+                "link": "https://pastebin.com/EE8gT1VS",
+                "label": "Haste calculator"
+              }
+            ]
+          },
+          {
+            "title": "Guardien",
+            "weakauras": [
+              {
+                "link": "https://pastebin.com/bz1KQ5a8",
+                "label": "Compilation"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "row",
+    "columns": [
+      {
+        "type": "weakauras_image_single",
+        "image": "/img/GameIcon-class-mage-vector.png",
+        "weakauras": [
+          {
+            "link": "https://pastebin.com/uH2CDDU5",
+            "label": "HUD (Feu)"
+          }
+        ]
+      },
+      {
+        "type": "weakauras_image_single",
+        "image": "/img/GameIcon-class-death-knight-vector.png",
+        "weakauras": [
+          {
+            "link": "https://wago.io/BJLMY5P8M",
+            "label": "HUD (Blood)"
+          }
+        ]
+      },
+      {
+        "type": "weakauras_image_single",
+        "image": "/img/GameIcon-class-shaman-vector.png",
+        "weakauras": [
+          {
+            "link": "https://wago.io/EJohkuIKb",
+            "label": "HUD (Enhancement)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "title",
+    "label": "Autres"
+  },
+  {
+    "type": "row",
+    "columns": [
+      {
+        "type": "weakauras_single",
+        "weakauras": [
+          {
+            "link": "https://wago.io/CurrentEquippedSet",
+            "label": "Set équipé"
+          },
+          {
+            "link": "https://wago.io/r1GjIaUJf",
+            "label": "+ de set d'équipement"
+          },
+          {
+            "link": "https://wago.io/TalentSetup",
+            "label": "Setup Talents, Leg' & Trinkets"
+          },
+          {
+            "link": "https://pastebin.com/jGxA93gT",
+            "label": "Affix Quaking"
+          }
+        ]
+      },
+      {
+        "type": "weakauras_single",
+        "weakauras": [
+          {
+            "link": "https://wago.io/RaidCDs",
+            "label": "Kicks et autres CD"
+          },
+          {
+            "link": "https://wago.io/SkjHi61Bz",
+            "label": "Tracker de Kick (M+)"
+          },
+          {
+            "link": "https://pastebin.com/m6ErZffQ",
+            "label": "Time to Die"
+          },
+          {
+            "link": "https://wago.io/NyIGCeCnf",
+            "label": "Affix Explosif"
+          }
+        ]
+      },
+      {
+        "type": "weakauras_single",
+        "weakauras": [
+          {
+            "link": "https://wago.io/B1pg1fRub",
+            "label": "Vie Effective (P&M)"
+          },
+          {
+            "link": "https://pastebin.com/7q14j04n",
+            "label": "Symbole sur toi"
+          },
+          {
+            "link": "https://pastebin.com/DA7L5Xyg",
+            "label": "Indicateur de Range"
+          },
+          {
+            "link": "https://pastebin.com/veRL85F7",
+            "label": "Track Curseur (croix)"
+          }
+        ]
+      }
+    ]
+  }
+]
