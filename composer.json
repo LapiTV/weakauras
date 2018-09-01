@@ -15,6 +15,7 @@
         "symfony/yaml": "*"
     },
     "require-dev": {
+        "deployer/deployer": "^6.3",
         "symfony/dotenv": "*",
         "symfony/web-server-bundle": "*"
     },
@@ -52,7 +53,8 @@
         ],
         "post-update-cmd": [
             "@auto-scripts"
-        ]
+        ],
+        "deploy": "dep deploy"
     },
     "conflict": {
         "symfony/symfony": "*"
