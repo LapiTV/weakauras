@@ -6,10 +6,10 @@ require 'recipe/symfony.php';
 require 'recipe/symfony4.php';
 
 // Project name
-set('application', 'lapi-weakauras');
+set('application', 'weakauras');
 
 // Project repository
-set('repository', 'git@github.com:WFrancois/lapi-weakauras.git');
+set('repository', 'git@github.com:LapiTV/weakauras.git');
 set('web_dir', 'public');
 
 // [Optional] Allocate tty for git clone. Default value is false.
