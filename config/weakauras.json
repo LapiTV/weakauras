@@ -102,8 +102,8 @@
             "label": "Setup Talents, Trait Azerite & Trinkets"
           },
           {
-            "link": "https://pastebin.com/jGxA93gT",
-            "label": "Affix Quaking"
+            "link": "https://pastebin.com/m6ErZffQ",
+            "label": "Time to Die"
           }
         ]
       },
@@ -115,16 +115,20 @@
             "label": "Kicks et autres CD"
           },
           {
-            "link": "https://wago.io/SkjHi61Bz",
-            "label": "Tracker de Kick (M+)"
-          },
-          {
-            "link": "https://pastebin.com/m6ErZffQ",
-            "label": "Time to Die"
+            "link": "https://pastebin.com/jGxA93gT",
+            "label": "Affix Quaking"
           },
           {
             "link": "https://wago.io/NyIGCeCnf",
             "label": "Affix Explosif"
+          },
+          {
+            "link": "https://wago.io/SkjHi61Bz",
+            "label": "Tracker de Kick (M+)"
+          },
+          {
+            "link": "https://wago.io/HyMdg_V_X",
+            "label": "Tracker de Kick (Raid)"
           }
         ]
       },
