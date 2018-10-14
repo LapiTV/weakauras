@@ -81,6 +81,46 @@
   },
   {
     "type": "title",
+    "label": "Mythic+"
+  },
+  {
+    "type": "row",
+    "columns": [
+      {
+        "type": "weakauras_single",
+        "weakauras": [
+          {
+            "link": "https://pastebin.com/jGxA93gT",
+            "label": "Affix Quaking"
+          }
+        ]
+      },
+      {
+        "type": "weakauras_single",
+        "weakauras": [
+          {
+            "link": "https://wago.io/Sk2SO80WX",
+            "label": "Affix G'huun"
+          },
+          {
+            "link": "https://wago.io/SkjHi61Bz",
+            "label": "Tracker de Kick (M+)"
+          }
+        ]
+      },
+      {
+        "type": "weakauras_single",
+        "weakauras": [
+          {
+            "link": "https://wago.io/NyIGCeCnf",
+            "label": "Affix Explosif"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "title",
     "label": "Autres"
   },
   {
@@ -100,10 +140,6 @@
           {
             "link": "https://wago.io/TalentSetup",
             "label": "Setup Talents, Trait Azerite & Trinkets"
-          },
-          {
-            "link": "https://pastebin.com/m6ErZffQ",
-            "label": "Time to Die"
           }
         ]
       },
@@ -115,30 +151,18 @@
             "label": "Kicks et autres CD"
           },
           {
-            "link": "https://pastebin.com/jGxA93gT",
-            "label": "Affix Quaking"
-          },
-          {
-            "link": "https://wago.io/NyIGCeCnf",
-            "label": "Affix Explosif"
-          },
-          {
-            "link": "https://wago.io/SkjHi61Bz",
-            "label": "Tracker de Kick (M+)"
-          },
-          {
             "link": "https://wago.io/HyMdg_V_X",
             "label": "Tracker de Kick (Raid)"
+          },
+          {
+            "link": "https://pastebin.com/m6ErZffQ",
+            "label": "Time to Die"
           }
         ]
       },
       {
         "type": "weakauras_single",
         "weakauras": [
-          {
-            "link": "https://wago.io/B1pg1fRub",
-            "label": "Vie Effective (P&M)"
-          },
           {
             "link": "https://pastebin.com/7q14j04n",
             "label": "Symbole sur toi"
