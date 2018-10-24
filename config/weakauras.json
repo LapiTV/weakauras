@@ -59,16 +59,6 @@
       },
       {
         "type": "weakauras_image_single",
-        "image": "/img/GameIcon-class-death-knight-vector.png",
-        "weakauras": [
-          {
-            "link": "https://wago.io/BJLMY5P8M",
-            "label": "HUD (Blood)"
-          }
-        ]
-      },
-      {
-        "type": "weakauras_image_single",
         "image": "/img/GameIcon-class-shaman-vector.png",
         "weakauras": [
           {
@@ -138,8 +128,8 @@
             "label": "+ de set d'équipement"
           },
           {
-            "link": "https://wago.io/TalentSetup",
-            "label": "Setup Talents, Trait Azerite & Trinkets"
+            "link": "https://pastebin.com/m6ErZffQ",
+            "label": "Time to Die"
           }
         ]
       },
@@ -153,10 +143,6 @@
           {
             "link": "https://wago.io/HyMdg_V_X",
             "label": "Tracker de Kick (Raid)"
-          },
-          {
-            "link": "https://pastebin.com/m6ErZffQ",
-            "label": "Time to Die"
           }
         ]
       },
