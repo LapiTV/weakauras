@@ -141,6 +141,10 @@
         "type": "weakauras_single",
         "weakauras": [
           {
+            "link": "https://wago.io/bfaraid2",
+            "label": "Battle of Dazar'alor"
+          },
+          {
             "link": "https://wago.io/RaidCDs",
             "label": "Kicks et autres CD"
           },
