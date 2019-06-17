@@ -66,6 +66,10 @@
         "image": "/img/GameIcon-class-shaman-vector.png",
         "weakauras": [
           {
+            "link": "https://pastebin.com/djNKnhwU",
+            "label": "Totem Mastery"
+          },
+          {
             "link": "https://wago.io/EJohkuIKb",
             "label": "HUD (Enhancement)"
           }
