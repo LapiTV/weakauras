@@ -149,10 +149,6 @@
         "type": "weakauras_single",
         "weakauras": [
           {
-            "link": "https://wago.io/bfaraid2",
-            "label": "Battle of Dazar'alor"
-          },
-          {
             "link": "https://wago.io/RaidCDs",
             "label": "Kicks et autres CD"
           },
@@ -163,6 +159,10 @@
           {
             "link": "https://wago.io/S1NMqphmm",
             "label": "Buff Raid (de classe)"
+          },
+          {
+            "link": "https://wago.io/6YhvXz76q",
+            "label": "Mrrl à Nazjatar"
           }
         ]
       },
