@@ -63,6 +63,24 @@
       },
       {
         "type": "weakauras_image_single",
+        "image": "/img/GameIcon-class-demon-hunter-vector.png",
+        "weakauras": [
+          {
+            "link": "https://pastebin.com/8yaA4zY5",
+            "label": "Barre d'action principale"
+          },
+          {
+            "link": "https://pastebin.com/QkgaYX1Y",
+            "label": "Seconde barre d'action"
+          },
+          {
+            "link": "https://pastebin.com/9ByLJwHs",
+            "label": "Barre de buff"
+          }
+        ]
+      },
+      {
+        "type": "weakauras_image_single",
         "image": "/img/GameIcon-class-shaman-vector.png",
         "weakauras": [
           {
