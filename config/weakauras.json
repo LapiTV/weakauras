@@ -57,11 +57,19 @@
     "columns": [
       {
         "type": "weakauras_image_single",
-        "image": "/img/GameIcon-class-mage-vector.png",
+        "image": "/img/GameIcon-class-hunter-vector.png",
         "weakauras": [
           {
-            "link": "https://pastebin.com/uH2CDDU5",
-            "label": "HUD (Feu)"
+            "link": "https://pastebin.com/qsE24DFr",
+            "label": "Tir acéré"
+          },
+          {
+            "link": "https://pastebin.com/vxbFGckP",
+            "label": "Courroux bestial"
+          },
+          {
+            "link": "https://pastebin.com/Us033ipM",
+            "label": "Aspect de la nature"
           }
         ]
       },
@@ -94,6 +102,31 @@
           {
             "link": "https://wago.io/EJohkuIKb",
             "label": "HUD (Enhancement)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "row",
+    "columns": [
+      {
+        "type": "weakauras_image_single",
+        "image": "/img/GameIcon-class-rogue-vector.png",
+        "weakauras": [
+          {
+            "link": "https://wago.io/394grIuT0",
+            "label": "HUD"
+          }
+        ]
+      },
+      {
+        "type": "weakauras_image_single",
+        "image": "/img/GameIcon-class-mage-vector.png",
+        "weakauras": [
+          {
+            "link": "https://pastebin.com/uH2CDDU5",
+            "label": "HUD (Feu)"
           }
         ]
       }
