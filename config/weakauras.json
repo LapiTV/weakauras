@@ -60,6 +60,10 @@
         "image": "/img/GameIcon-class-hunter-vector.png",
         "weakauras": [
           {
+            "link": "https://pastebin.com/dZUt6Hie",
+            "label": "Ordre de tuer"
+          },
+          {
             "link": "https://pastebin.com/qsE24DFr",
             "label": "Tir acéré"
           },
