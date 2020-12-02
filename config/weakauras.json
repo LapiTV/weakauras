@@ -26,10 +26,6 @@
                 "label": "Eclat Lunaire / Solaire"
               },
               {
-                "link": "https://pastebin.com/EE8gT1VS",
-                "label": "Haste calculator"
-              },
-              {
                 "link": "https://pastebin.com/60Ttk476",
                 "label": "Arcanic Pulsar"
               },
@@ -102,45 +98,6 @@
             "label": "Barre de buff"
           }
         ]
-      },
-      {
-        "type": "weakauras_image_single",
-        "image": "/img/GameIcon-class-shaman-vector.png",
-        "weakauras": [
-          {
-            "link": "https://pastebin.com/djNKnhwU",
-            "label": "Totem Mastery"
-          },
-          {
-            "link": "https://wago.io/EJohkuIKb",
-            "label": "HUD (Enhancement)"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "type": "row",
-    "columns": [
-      {
-        "type": "weakauras_image_single",
-        "image": "/img/GameIcon-class-rogue-vector.png",
-        "weakauras": [
-          {
-            "link": "https://wago.io/394grIuT0",
-            "label": "HUD"
-          }
-        ]
-      },
-      {
-        "type": "weakauras_image_single",
-        "image": "/img/GameIcon-class-mage-vector.png",
-        "weakauras": [
-          {
-            "link": "https://pastebin.com/uH2CDDU5",
-            "label": "HUD (Feu)"
-          }
-        ]
       }
     ]
   },
@@ -157,10 +114,6 @@
           {
             "link": "https://pastebin.com/jGxA93gT",
             "label": "Affix Quaking"
-          },
-          {
-            "link": "https://wago.io/Hk8U8kanm",
-            "label": "Tracker de CD groupe"
           }
         ]
       },
@@ -168,12 +121,12 @@
         "type": "weakauras_single",
         "weakauras": [
           {
-            "link": "https://wago.io/r1lqyX32M",
-            "label": "BfA Dungeons"
+            "link": "https://wago.io/InterruptTracker",
+            "label": "Tracker de Kick (M+)"
           },
           {
-            "link": "https://wago.io/SkjHi61Bz",
-            "label": "Tracker de Kick (M+)"
+            "link": "https://wago.io/Hk8U8kanm",
+            "label": "Tracker de CD groupe"
           }
         ]
       },
@@ -207,12 +160,8 @@
             "label": "+ de set d'équipement"
           },
           {
-            "link": "https://pastebin.com/htbJAFh0",
-            "label": "Honed Mind"
-          },
-          {
-            "link": "https://wago.io/-W98Sg3b9",
-            "label": "Proc Vision of Perfection"
+            "link": "https://wago.io/LuxthosExperienceBar",
+            "label": "Barre d'expérience"
           }
         ]
       },
@@ -230,10 +179,6 @@
           {
             "link": "https://wago.io/S1NMqphmm",
             "label": "Buff Raid (de classe)"
-          },
-          {
-            "link": "https://wago.io/6YhvXz76q",
-            "label": "Mrrl à Nazjatar"
           }
         ]
       },
@@ -249,7 +194,7 @@
             "label": "Indicateur de Range"
           },
           {
-            "link": "https://pastebin.com/nVqqL6jW",
+            "link": "https://pastebin.com/shChWV7P",
             "label": "Track Curseur"
           },
           {
