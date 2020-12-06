@@ -24,6 +24,10 @@
               {
                 "link": "https://pastebin.com/7y2FEHyw",
                 "label": "Eclat Lunaire / Solaire"
+              },
+              {
+                "link": "https://wago.io/tY7YaSqRh",
+                "label": "Night Fae / Spell Cast"
               }
             ]
           },
@@ -35,59 +39,6 @@
                 "label": "Mitigation"
               }
             ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "type": "row",
-    "columns": [
-      {
-        "type": "weakauras_image_single",
-        "image": "/img/GameIcon-class-hunter-vector.png",
-        "weakauras": [
-          {
-            "link": "https://pastebin.com/dZUt6Hie",
-            "label": "Ordre de tuer"
-          },
-          {
-            "link": "https://pastebin.com/qsE24DFr",
-            "label": "Tir acéré"
-          },
-          {
-            "link": "https://pastebin.com/vxbFGckP",
-            "label": "Courroux bestial"
-          },
-          {
-            "link": "https://pastebin.com/Us033ipM",
-            "label": "Aspect de la nature"
-          },
-          {
-            "link": "https://pastebin.com/YGpG8twb",
-            "label": "Enchaînement bestial"
-          },
-          {
-            "link": "https://pastebin.com/76MVRj5y",
-            "label": "Danse de mort"
-          }
-        ]
-      },
-      {
-        "type": "weakauras_image_single",
-        "image": "/img/GameIcon-class-demon-hunter-vector.png",
-        "weakauras": [
-          {
-            "link": "https://pastebin.com/8yaA4zY5",
-            "label": "Barre d'action principale"
-          },
-          {
-            "link": "https://pastebin.com/QkgaYX1Y",
-            "label": "Seconde barre d'action"
-          },
-          {
-            "link": "https://pastebin.com/9ByLJwHs",
-            "label": "Barre de buff"
           }
         ]
       }
