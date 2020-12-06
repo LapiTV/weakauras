@@ -101,27 +101,6 @@
           {
             "link": "https://wago.io/r1GjIaUJf",
             "label": "+ de set d'équipement"
-          },
-          {
-            "link": "https://wago.io/LuxthosExperienceBar",
-            "label": "Barre d'expérience"
-          }
-        ]
-      },
-      {
-        "type": "weakauras_single",
-        "weakauras": [
-          {
-            "link": "https://wago.io/RaidCDs",
-            "label": "Kicks et autres CD"
-          },
-          {
-            "link": "https://wago.io/HyMdg_V_X",
-            "label": "Tracker de Kick (Raid)"
-          },
-          {
-            "link": "https://wago.io/S1NMqphmm",
-            "label": "Buff Raid (de classe)"
           }
         ]
       },
@@ -136,6 +115,15 @@
             "link": "https://pastebin.com/DA7L5Xyg",
             "label": "Indicateur de Range"
           },
+          {
+            "link": "https://wago.io/LuxthosExperienceBar",
+            "label": "Barre d'expérience"
+          }
+        ]
+      },
+      {
+        "type": "weakauras_single",
+        "weakauras": [
           {
             "link": "https://pastebin.com/shChWV7P",
             "label": "Track Curseur"
