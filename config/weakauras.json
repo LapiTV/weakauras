@@ -64,11 +64,11 @@
         "type": "weakauras_single",
         "weakauras": [
           {
-            "link": "https://wago.io/InterruptTracker",
+            "link": "https://wago.io/MInterruptTracker",
             "label": "Tracker de Kick (M+)"
           },
           {
-            "link": "https://wago.io/Hk8U8kanm",
+            "link": "https://wago.io/-qKCnDtTs",
             "label": "Tracker de CD groupe"
           }
         ]
