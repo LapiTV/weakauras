@@ -37,6 +37,7 @@ Encore
     // enables Sass/SCSS support
     .enableSassLoader()
 
+    .enableSingleRuntimeChunk()
     // uncomment if you use TypeScript
     //.enableTypeScriptLoader()
 

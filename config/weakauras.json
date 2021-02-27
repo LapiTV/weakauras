@@ -33,6 +33,29 @@
     ]
   },
   {
+    "type": "row",
+    "columns": [
+      {
+        "type": "weakauras_image_single",
+        "image": "/img/GameIcon-class-hunter-vector.png",
+        "weakauras": [
+          {
+            "link": "https://controlc.com/4612257e",
+            "label": "Wild Spirits"
+          },
+          {
+            "link": "https://controlc.com/93da1e8a",
+            "label": "Trueshot"
+          },
+          {
+            "link": "https://controlc.com/3e265cca",
+            "label": "Double Tap"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "type": "title",
     "label": "Mythic+"
   },
