@@ -25,7 +25,7 @@ set('env', function() {
 
 
 // Hosts
-host('lapitv')
+host('ns378030')
     ->set('deploy_path', '/home/projects/{{application}}');
 
 // Tasks
@@ -35,7 +35,7 @@ task('deploy:assets:install', function () {
 })->desc('Install bundle assets');
 
 task('deploy:assets:webpack', function() {
-    run('cd {{release_path}}; npm install');
+    run('cd {{release_path}}; npm install --dev');
     run('cd {{release_path}}; ./node_modules/.bin/encore production');
 });
 
